@@ -1,0 +1,2 @@
+# hash-algorithm
+learn hash
